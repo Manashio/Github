@@ -1,11 +1,13 @@
-#Github
--- Built for Developers
+<h1>Github</h1>
 
-<p>It's a simple github page demo for  <a href="">Free code camp project</a></p>
+<p>It's a simple github page demo for  <a href="https://www.freecodecamp.org/">Free code camp project</a></p>
 
 <h4>Technologies</h4>
+
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
 <li>Bootstrap (CSS Framwork)</li>
 
+<h3>Demo</h3>
+    <a href="https://manashio.github.io/Github/">Github demo</a>
